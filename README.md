@@ -1,16 +1,14 @@
 [![Latest Stable Version](https://poser.pugx.org/fleshgrinder/core/v/stable)](https://packagist.org/packages/fleshgrinder/core)
-[![Latest Unstable Version](https://poser.pugx.org/fleshgrinder/core/v/unstable)](https://packagist.org/packages/fleshgrinder/core)
+[![License](https://poser.pugx.org/fleshgrinder/core/license)](https://packagist.org/packages/fleshgrinder/core)
 [![Travis](https://img.shields.io/travis/Fleshgrinder/php-core.svg)](https://travis-ci.org/Fleshgrinder/php-core)
 [![Build status](https://ci.appveyor.com/api/projects/status/dfyfacv59mpmmhdt/branch/master?svg=true)](https://ci.appveyor.com/project/Fleshgrinder/php-core/branch/master)
 [![HHVM](https://img.shields.io/hhvm/fleshgrinder/core.svg)](http://hhvm.h4cc.de/package/fleshgrinder/core)
-[![License](https://poser.pugx.org/fleshgrinder/core/license)](https://packagist.org/packages/fleshgrinder/core)
-[![Total Downloads](https://poser.pugx.org/fleshgrinder/core/downloads)](https://packagist.org/packages/fleshgrinder/core)
 
 [![Coveralls branch](https://img.shields.io/coveralls/Fleshgrinder/php-core/master.svg)](https://coveralls.io/github/Fleshgrinder/php-core)
 [![Scrutinizer](https://img.shields.io/scrutinizer/g/Fleshgrinder/php-core.svg)](https://scrutinizer-ci.com/g/Fleshgrinder/php-core/)
-[![SensioLabs Insight](https://img.shields.io/sensiolabs/i/61540e8e-2ca9-4102-bd43-3b9c5a0a38e2.svg)](https://insight.sensiolabs.com/projects/61540e8e-2ca9-4102-bd43-3b9c5a0a38e2)
 [![Code Climate: GPA](https://img.shields.io/codeclimate/github/Fleshgrinder/php-core.svg)](https://codeclimate.com/github/Fleshgrinder/php-core)
 [![Code Climate: Issues](https://img.shields.io/codeclimate/issues/github/Fleshgrinder/php-core.svg)](https://codeclimate.com/github/Fleshgrinder/php-core/issues)
+[![Total Downloads](https://poser.pugx.org/fleshgrinder/core/downloads)](https://packagist.org/packages/fleshgrinder/core)
 # Core
 The **core** library provides the most basic functionality that is missing in
  PHP core (and most probably will never make it into it): helpers (in form of
