@@ -2,12 +2,10 @@
 [![License](https://poser.pugx.org/fleshgrinder/core/license)](https://packagist.org/packages/fleshgrinder/core)
 [![Travis](https://img.shields.io/travis/Fleshgrinder/php-core.svg)](https://travis-ci.org/Fleshgrinder/php-core)
 [![Build status](https://ci.appveyor.com/api/projects/status/dfyfacv59mpmmhdt/branch/master?svg=true)](https://ci.appveyor.com/project/Fleshgrinder/php-core/branch/master)
-[![HHVM](https://img.shields.io/hhvm/fleshgrinder/core.svg)](http://hhvm.h4cc.de/package/fleshgrinder/core)
 
 [![Coveralls branch](https://img.shields.io/coveralls/Fleshgrinder/php-core/master.svg)](https://coveralls.io/github/Fleshgrinder/php-core)
 [![Scrutinizer](https://img.shields.io/scrutinizer/g/Fleshgrinder/php-core.svg)](https://scrutinizer-ci.com/g/Fleshgrinder/php-core/)
 [![Code Climate: GPA](https://img.shields.io/codeclimate/github/Fleshgrinder/php-core.svg)](https://codeclimate.com/github/Fleshgrinder/php-core)
-[![Code Climate: Issues](https://img.shields.io/codeclimate/issues/github/Fleshgrinder/php-core.svg)](https://codeclimate.com/github/Fleshgrinder/php-core/issues)
 [![Total Downloads](https://poser.pugx.org/fleshgrinder/core/downloads)](https://packagist.org/packages/fleshgrinder/core)
 # Core
 The **core** library provides the most basic functionality that is missing in
