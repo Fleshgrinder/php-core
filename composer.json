@@ -1,0 +1,34 @@
+{
+	"name": "fleshgrinder/core",
+	"description": "Disable default behavior of PHP objects.",
+	"license": "Unlicense",
+	"authors": [
+		{
+			"name": "Richard Fussenegger",
+			"email": "fleshgrinder@users.noreply.github.com"
+		}
+	],
+	"require-dev": {
+		"phpunit/phpunit": "^6.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"Fleshgrinder\\Core\\": "src/"
+		}
+	},
+	"autoload-dev": {
+		"psr-4": {
+			"Fleshgrinder\\Core\\": [
+				"src/",
+				"tests/"
+			]
+		}
+	},
+	"scripts": {
+		"test": "phpunit --colors=always --testdox"
+	},
+	"suggest": {
+		"fleshgrinder/equalable": "For a consistent equals contract for objects.",
+		"fleshgrinder/comparable": "For a consistent and type safe comparison contract for objects."
+	}
+}
