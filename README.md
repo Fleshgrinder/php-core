@@ -1,7 +1,7 @@
 [![Latest Stable Version](https://poser.pugx.org/fleshgrinder/core/v/stable)](https://packagist.org/packages/fleshgrinder/core)
 [![License](https://poser.pugx.org/fleshgrinder/core/license)](https://packagist.org/packages/fleshgrinder/core)
-[![Travis](https://img.shields.io/travis/Fleshgrinder/php-core.svg)](https://travis-ci.org/Fleshgrinder/php-core)
-[![Build status](https://ci.appveyor.com/api/projects/status/dfyfacv59mpmmhdt/branch/master?svg=true)](https://ci.appveyor.com/project/Fleshgrinder/php-core/branch/master)
+[![Travis CI build status](https://img.shields.io/travis/Fleshgrinder/php-core.svg)](https://travis-ci.org/Fleshgrinder/php-core)
+[![AppVeyor CI build status](https://ci.appveyor.com/api/projects/status/u5fbfnf7m3ws8l1b/branch/master?svg=true)](https://ci.appveyor.com/project/Fleshgrinder/php-core/branch/master)
 
 [![Coveralls branch](https://img.shields.io/coveralls/Fleshgrinder/php-core/master.svg)](https://coveralls.io/github/Fleshgrinder/php-core)
 [![Scrutinizer](https://img.shields.io/scrutinizer/g/Fleshgrinder/php-core.svg)](https://scrutinizer-ci.com/g/Fleshgrinder/php-core/)
