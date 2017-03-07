@@ -4,7 +4,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased][unreleased]
 
-## [1.0.0] - 2017-03-06
+## [1.0.0] - 2017-03-07
 - Initial Release
 
 [unreleased]: https://github.com/Fleshgrinder/php-core
